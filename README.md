@@ -14,5 +14,8 @@ PIswarm is a versatile platform for general swarm-robotic research developed at 
 
 ## Detailed Bill of PIswarm <a name="detailed_bill_of_piswarm"></a>
 
+Detailed information about each component of PIswarm can be found [here](https://github.com/hanlinwang2015/PIswarm/blob/master/detailed_bill.pdf).
+
 ## STL Files for Chassis <a name="stl_for_chassis"></a>
 
+The chassis of each PIswarm robot can be built with 3D printer, related STL files can be found at [here](https://github.com/hanlinwang2015/PIswarm/tree/master/STL%20files%20for%20chassis).
